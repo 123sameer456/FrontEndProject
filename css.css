@@ -1,0 +1,857 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.box1{
+    background-color: white;
+
+}
+.box2{
+    background-color: black;
+    width: 92%;
+    /* text-align: center; */
+    margin-top: 20px;
+height: 30px;
+margin-left: 20px;
+}
+.heading{
+    color: white;
+    font-size: 15px;
+    margin-left: 50px;
+    padding-top: 5px;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 270px;
+    position: relative;
+    margin-top: -19px;
+}
+.home{
+    background-color: white;
+    color: black;
+    border-radius: 15%;
+    padding: 3px;
+}
+li{
+    color: white;
+    display: inline;
+    font-size: 10px;
+    margin-left:10px ;
+}
+.box3{
+    background-color: aqua;
+    width:92%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-left: 20px;
+    height: 350px;
+    position: relative;
+}
+.design{
+text-align: center;
+padding: 9px;
+}
+.para{
+    color: white;
+    text-align: center;
+    font-size: 8px;
+}
+.box4{
+    background-color: white;
+    width:25%;
+    height: 50%;
+    margin-left: 60%;
+    border-radius: 8px;
+    margin-top: 70.9px;
+    position: relative;
+}
+.box5{
+    background-color: black;
+    width:23%;
+    border-radius: 8px;
+    height: 50%;
+    margin-left: 38%;
+    z-index: 1;
+    margin-top: -39%;
+    position: relative;
+    box-shadow: 3px 3px 3px 3px black;
+}
+.box6{
+    background-color: white;
+    width:25%;
+    height: 50%;
+    margin-left: 15%;
+    border-radius: 8px;
+    margin-top: -155px;
+    position: relative;
+}
+.click{
+margin-left: 10px;
+border-radius: 10px;
+padding: 4px;
+margin-top: 15px;
+color: aqua;
+background-color: white;
+outline: white;
+font-size: 8px;
+}
+.clicks{
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    color: aqua;
+    font-size: 10px;
+    background-color: white;
+}
+.clic{
+    font-size: 5px;
+    padding:4px;
+    margin-left: -6px;
+    background-color: aqua;
+    color: white;
+    border-radius: 9px;
+}
+.bas{
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    color: aqua;
+    font-size: 10px;
+    background-color: white;
+}
+.per{
+    font-size: 7px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.pere{
+    font-size: 7px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
+.peregh{
+    font-size: 7px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: black;
+}
+.fan{
+    position:absolute;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: aqua;
+}
+.fana{
+    position:absolute;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: aqua;
+}
+.fane{
+    position:absolute;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: aqua;
+}
+.fanm{
+    position:absolute;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: aqua;
+}
+.fans{
+    position:absolute;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: aqua;
+}
+.fanl{
+    position:absolute;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: aqua;
+}
+.same{
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: 3px;
+}
+.sam{
+        font-size: 8px;
+        margin-left: 25px;
+        margin-top: 3px;
+}
+.mana{
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: 3px;
+}
+.sa{
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: 3px;
+}
+.saem{
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: 3px;
+}
+.sarm{
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: 3px;
+}
+.line{
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.mo{
+    font-size: 10px;
+    margin-left: 30px;
+}
+.cheese{
+    color: aqua;
+    font-size:8px ;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 40px;
+}
+.check{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.color{
+    color: white;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.out{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.colo{
+    color: white;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.comila{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.col{
+    color: white;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.gamla{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.co{
+    color: white;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.gam{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.c{
+    color: white;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.doc{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.coc{
+    color: white;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.li{
+    width: 90px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.mon{
+    font-size: 10px;
+    color: white;
+    margin-left: 30px;
+}
+.chee{
+    color: aqua;
+    font-size:8px ;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 40px;
+    padding-top: -15px;
+position:absolute;
+}
+.checker{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.colorer{
+    color: black;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.outcheck{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.coloer{
+    color: black;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.hunain{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.coler{
+    color: black;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}.hamza{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.coer{
+    color: black;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.anus{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.cer{
+    color: black;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.asad{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.cocer{
+    color: black;
+    font-size: 8px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.linar{
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.mono{
+    font-size: 10px;
+    color: rgb(8, 7, 7);
+    margin-left: 30px;
+}
+.che{
+    color: aqua;
+    font-size:8px ;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 40px;
+position:absolute;
+}
+.box7{
+    background-color:darkgray;
+    width: 92%;
+    height: 1190px;
+    margin-left: 20px;
+    margin-top:-15%;
+    /* position: relative; */
+}
+.our{
+color: white;
+font-size: 20px;
+text-align: center;
+position: relative;
+padding: 120px;
+}
+.img{
+    margin-left: 20%;
+    margin-top: -50px;
+    border-radius: 5px;
+}
+.pic{
+    margin-left: 0%;
+    border-radius: 5px;
+    margin-top: -50px;
+}
+.pict{
+    margin-left: 0%;
+    border-radius: 5px;
+    margin-top: -50px;
+}
+.icon{
+    color: white;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.icono{
+    color: white;
+    font-size: 15px;
+    margin-left: 400px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+.and{
+    width: 57%;
+    height: 10px;
+    background-color: aqua;
+    margin-top: 63px;
+    margin-left:95px ;
+}
+.mass{
+    font-size: 4px;
+    margin-left: 210px;
+    margin-top: -8px;
+    color: white;
+}
+.mas{
+    font-size: 4px;
+    margin-left: 218px;
+    margin-top: -4.5px;
+    color: white;
+}
+.massa{
+    font-size: 4px;
+    margin-left: 226px;
+    margin-top: -4px;
+    color: white;
+}
+.masss{
+    font-size: 4px;
+    margin-left: 234px;
+    margin-top: -4.5px;
+    color: white;
+}
+.mmass{
+    font-size: 4px;
+    margin-left: 243px;
+    margin-top: -4.5px;
+    color: black;
+}
+.see{
+    color: white;
+    font-size: 9px;
+    margin-top: -820px;
+    text-align: center;
+}
+.mmaa{
+    color: aqua;
+    text-align: center;
+    font-size: 10px;
+}
+.faq{
+    color: white;
+    font-size: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+.class{
+    height: 10px;
+    background-color: white;
+    width: 495px;
+    margin-top: -8px;
+    margin-left: 20px;
+}
+.kla{
+    height: 10px;
+    background-color: white;
+    width: 495px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.add{
+    text-align: center;
+    color: white;
+    margin-top: -13px;
+}
+.ject{
+    color: white;
+    font-size: 8.5px;
+    margin-left: 170px;
+    margin-top: 60px;
+}
+.mera{
+    color: white;
+    font-size: 10px;
+    margin-top: -10px;
+    margin-left: 350px;
+}
+.hr{
+    width: 185px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.ca{
+    color: white;
+    font-size: 8.5px;
+    margin-left: 170px;
+    margin-top: 8px;
+}
+.mere{
+    color: white;
+    font-size: 10px;
+    margin-top: -10px;
+    margin-left: 350px;
+}
+.hre{
+    width: 185px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.io{
+    color: white;
+    font-size: 8.5px;
+    margin-left: 170px;
+    margin-top: 8px;
+}
+.mara{
+    color: white;
+    font-size: 10px;
+    margin-top: -10px;
+    margin-left: 350px;
+}
+.hra{
+    width: 185px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.ghar{
+    color: white;
+    font-size: 8.5px;
+    margin-left: 170px;
+    margin-top: 8px;
+}
+.mnrn{
+    color: white;
+    font-size: 10px;
+    margin-top: -10px;
+    margin-left: 350px;
+}
+.hope{
+    width: 185px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.lop{
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    margin-top: 70px;
+    font-family: monospace;
+}
+.box8{
+    width: 390px;
+    height: 140px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.lmie{
+    font-size: 10px;
+    margin-left: 10px;
+    padding-top: 15px;
+}
+.vim{
+    margin-left: 10px;
+width: 175px;
+}
+.morda{
+    font-size: 10px;
+    margin-left: 175px;
+    margin-top: -13px;
+}
+.email{
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 13px;
+}
+.vimp{
+    margin-left: 10px;
+width: 175px;
+}
+.wai{
+    font-size: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.naz{
+    font-size: 10px;
+    margin-left: 200px;
+    margin-top: -67px;
+}
+.zaz{
+    width: 180px;
+    margin-left:200px ;
+}
+.number{
+    font-size: 10px;
+    margin-left: 200px;
+    margin-top: 12px;
+}
+.cover{
+    width: 180px;
+    margin-left:200px ;
+}
+.full{
+    margin-top: 55px;
+    width: 370px;
+    margin-left: 10px;
+}
+.with{
+    margin-left: 10px;
+    font-size: 9px;
+    border-radius: 2px;
+    padding: 2px;
+    width: 40px;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
+.box9{
+    width: 92%;
+    background-color: black;
+    margin-left: 20px;
+margin-top: 60px;
+    height: 220px;
+}
+.white{
+    color: white;
+    font-size: 8px;
+    margin-left: 70px;
+    padding-top: 20px;
+    font-family: monospace;
+}
+.kam{
+    font-size: 7px;
+    margin-left: 70px;
+margin-top: 3px;
+    color: darkgray;
+}
+.black{
+    color: white;
+    margin-left:230px ;
+    margin-top: -20px;
+    font-family: monospace;
+    font-size: 8px;
+}
+.karna{
+    font-size: 6px;
+    margin-left: 230px;
+margin-top: 3px;
+    color: darkgray;   
+}
+.sub{
+    font-size: 8px;
+    font-family: monospace;
+    color: white;
+    margin-top: 30px;
+    margin-left:350px ;
+}
+.d{
+    background-color: aqua;
+    margin-left:350px ;
+width: 20px;
+margin-top: 5px;
+}
+.use{
+    font-size: 8px;
+    font-family: monospace;
+    color: white;
+    margin-top: -18px;
+    margin-left:230px ;
+}
+.f{
+    background-color: aqua;
+    margin-left:230px ;
+width: 20px;
+margin-top: 5px;
+}
+.nazer{
+    color: white;
+    font-size: 10px;
+    margin-left: 70px;
+    margin-top: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.be{
+    color: darkgray;
+    font-size: 7px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.cnnik{
+    color: darkgray;
+    font-size: 7px;
+    margin-left: 230px;
+    margin-top: 5px;
+}
+.homm{
+    font-size: 7px;
+    color: darkgray;
+    margin-left: 230px;
+    margin-top: -50px;
+}
+.kontatk{
+    font-size: 7px;
+    color: darkgray;
+    margin-left: 230px;
+    margin-top: 5px;
+}
+.kfc{
+    font-size: 7px;
+    color: darkgray;
+    margin-left: 230px;
+    margin-top: 5px;
+}
+.pro{
+    font-size: 7px;
+    color: darkgray;
+    margin-left: 230px;
+    margin-top: 5px; 
+}
+.slide{
+    font-family: monospace;
+    color: white;
+    font-size: 10px;
+    margin-left: 70px;
+}
+.fix{
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 70px;
+    background-color: aqua;
+}
+.on{
+    font-size: 15px;
+    margin-top: 10px;
+    color: blue;
+    margin-left: 70px;
+}
+.no{
+    font-size: 15px;
+    margin-top: -17px;
+    color: pink;
+    margin-left: 90px;
+}
+.address{
+    width: 70px;
+    font-size: 10px;
+    padding: 2px;
+height: 8px;
+color: darkgray;
+background-color: darkgrey;
+    margin-left: 342px;
+    top: -110px;
+    position: relative;
+}
+.kok{
+    background-color: aqua;
+    width: 20px;
+    text-align: center;
+margin-left: 421px;
+height: 16px;
+color: white;
+margin-top:-126px ;
+}
+.copy{
+    color:  black;
+    margin-left: 90px;
+    font-size: 7px;
+    margin-top: 3px;
+}
+.smaa{
+    color:  aqua;
+    margin-left: 210px;
+    margin-top: -7px;
+    font-size: 7px;
+}
+.woh{
+    font-size:7px ;
+    margin-left: 365px;
+    margin-top: -10px;
+}
+.woha{
+    font-size:7px ;
+    margin-left: 390px;
+    margin-top: -8px;
+}
+.woman{
+    font-size:7px ;
+    margin-left: 420px;
+    margin-top: -8px;
+}
+.womana{
+    font-size:7px ;
+    margin-left: 455px;
+    margin-top: -8px;
+}
+.lio{
+    font-size:7px ;
+    margin-left: 480px;
+    margin-top: -8px;
+}
